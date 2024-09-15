@@ -1,0 +1,34 @@
+{
+  "products": [
+    {
+      "id": "5f0ff0fc-6693-4957-8b81-5fc215b32795",
+      "title": "Smartphone",
+      "price": "599.99",
+      "description": "High-end smartphone with advanced features"
+    },
+    {
+      "id": "aadbd03a-917b-4355-bc11-d695100e6598",
+      "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
+      "price": "109",
+      "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday"
+    },
+    {
+      "id": "41131cae-8d3d-4002-9463-c3908e10c346",
+      "title": "Mens Casual Slim Fit",
+      "price": "15.99",
+      "description": "The color could be slightly different between on the screen and in practice. / Please note that body builds vary by person,"
+    },
+    {
+      "id": "31fa71d5-a9fb-4c3c-824c-97b0ef85c35b",
+      "title": "\"White Gold Plated Princess",
+      "price": "122",
+      "description": "Classic Created Wedding Engagement Solitaire Diamond Promise Ring for Her. Gifts to spoil your love more for Engagement"
+    },
+    {
+      "id": "77d0f5f6-d2a5-4f06-ba65-0e44d82704f7",
+      "title": "WD 2TB Elements Portable External Hard Drive - USB 3.0",
+      "price": "121",
+      "description": "Compatibility Formatted NTFS for Windows 10, Windows 8.1, Windows 7; Reformatting may be required for other operating systems"
+    }
+  ]
+}
