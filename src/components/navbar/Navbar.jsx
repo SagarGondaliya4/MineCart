@@ -46,6 +46,11 @@ export const Navbar = ({ isLoggedIn, userName, handleLogout }) => {
                   Sign Up
                 </button>
               </Link>
+              <Link to="/dashboard">
+                <button type="button" className="btn btn-outline-warning m-1">
+                  dashboard
+                </button>
+              </Link>
             </div>
           )}
         </div>
